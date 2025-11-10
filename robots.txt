@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://elaborate-hummingbird-c1d083.netlify.app/sitemap.xml
